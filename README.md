@@ -26,5 +26,5 @@ The extractor identifies the following fields:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Alaa-AHK/Structured-info-extractor](https://github.com/Alaa-AHK/Structured-info-extractor)
+   git clone "https://github.com/Alaa-AHK/Structured-info-extractor"
    cd Structured-info-extractor
